@@ -34,5 +34,25 @@
     "lastName": "Na baan yuan",
     "program": "ISNE",
     "programId": 102
+  },
+  {
+    "studentId": "650610002",
+    "courseId": "269491"
+  },
+  {
+    "studentId": "650610002",
+    "courseId": "269491"
+  },
+  {
+    "studentId": "650610001",
+    "courseId": "269491"
+  },
+  {
+    "studentId": "650610003",
+    "courseId": "269491"
+  },
+  {
+    "studentId": "650610003",
+    "courseId": "269498"
   }
 ]
